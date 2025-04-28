@@ -1,7 +1,5 @@
 package com.example.trabalho_pw_1;
 
-import com.example.trabalho_pw_1.Model.Logista;
-import com.example.trabalho_pw_1.Model.Usuario;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

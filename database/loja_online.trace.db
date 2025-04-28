@@ -1,0 +1,9 @@
+2025-04-28 14:00:56.766953-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SHOW [*]COLLUMNS FROM CLIENTES"; SQL statement:
+SHOW COLLUMNS FROM CLIENTES [42000-232]
+2025-04-28 14:01:11.659974-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SHOW [*]COLLUMNS FROM table_name"; SQL statement:
+SHOW COLLUMNS FROM table_name [42000-232]
+2025-04-28 14:01:32.723175-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SHOW [*]COLLUMNS FROM TABLE_NAME"; SQL statement:
+SHOW COLLUMNS FROM TABLE_NAME [42000-232]
